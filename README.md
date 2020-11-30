@@ -8,4 +8,4 @@ Ce projet n'est pas affilié à RadioNeo.
 
 ## Screenshot
 
-![Screenshot](Screen-App.png =250x "Screenshot")
+<img src="https://raw.githubusercontent.com/RoyalPanda/RadioNeo/main/Screen-App.png" width="300">Screenshot App</img>
