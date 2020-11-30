@@ -8,4 +8,4 @@ Ce projet n'est pas affilié à RadioNeo.
 
 ## Screenshot
 
-![Screenshot](Screen-App.png "Screenshot")
+![Screenshot](Screen-App.png =250x "Screenshot")
